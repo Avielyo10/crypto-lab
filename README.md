@@ -18,3 +18,7 @@ Run - `./lab_flow.out`
 
 This will generate a very big random **prime** number as a key.      
 Usage: `python generateRandomKey.py <numberOfBits>`
+
+---
+### Output for Q2.1 & Q2.2
+Output file can be found [here](output.txt)
