@@ -2,8 +2,12 @@
 SEED Labs - RSA Public-Key Encryption and Signature Lab.
 
 ---
+### Q1.1
+
 ### Q1.2 
-![](1.png)![](2.png)
+
+![](images/1.png)![](images/2.png)
+
 ### Q2.1 - Running the lab flow
 
 Comlipe lab_flow.c - `gcc lab_flow.c -lcrypto -o lab_flow.out`  
